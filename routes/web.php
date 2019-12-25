@@ -11,7 +11,7 @@
 |
 */
 //
-Route::get('/test1', function () {
+Route::get('/komaldangar', function () {
     return view('welcome');
 });
 Route::get('/', function () {
