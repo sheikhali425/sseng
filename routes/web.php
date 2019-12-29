@@ -11,8 +11,8 @@
 |
 */
 //
-Route::get('/komaldangar', function () {
-    return view('welcome');
+Route::get('/createproject', function () {
+    return view('createproject');
 });
 Route::get('/', function () {
     return view('welcome');
