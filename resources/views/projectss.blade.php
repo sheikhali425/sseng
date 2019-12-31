@@ -1,8 +1,8 @@
 @extends('layout')
-	 
+
 	@section('content')
 
-	
+
     <style>
     .pol{
         margin-left:20px; important!
@@ -34,7 +34,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">PTET Tower islamabad</span> <br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal41">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
@@ -44,7 +44,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">MCB Bank, Jail Road.</span> <br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal40">View Project</button>
-        				
+
         					</div>
         		</div>
         	</div>
@@ -54,14 +54,14 @@
         			<div class="text w-100 text-center">
         				<span class="cat">The Centauras Mall, islamabad.</span><br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal39">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
-        	
+
         </div>
 			</div>
-			
+
 </div>
 <div class="row pol">
         	<div class="col-md-4">
@@ -70,7 +70,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Bayer pakistan pvt. ltd. Lahore.</span><br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal38">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
@@ -80,7 +80,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Don Valley Pharmaceutical  (pvt) Ltd. Lahore.</span>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal37">View Project</button>
-        				
+
         					</div>
         		</div>
         	</div>
@@ -90,14 +90,14 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Surge Laboratories (pvt) Ltd. Shaikhupura.</span>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal36">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
-        	
+
         </div>
 			</div>
-			
+
 </div>
 
 <div class="row pol">
@@ -107,7 +107,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Centuries Apartment Islamabad.</span>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal35">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
@@ -117,7 +117,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Fuji Foundation Teaching Hsp Rawalpindi.</span>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal34">View Project</button>
-        				
+
         					</div>
         		</div>
         	</div>
@@ -127,14 +127,14 @@
         			<div class="text w-100 text-center">
         				<span class="cat">LUMS Universities DHA Lahore.</span><br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal33">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
-        	
+
         </div>
 			</div>
-			
+
 </div>
 
 <div class="row pol">
@@ -144,7 +144,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Royal Palm Golf & Country Club Lahore.</span>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal32">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
@@ -154,7 +154,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Sareena Private limited Lahore.</span><br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal31">View Project</button>
-        				
+
         					</div>
         		</div>
         	</div>
@@ -164,14 +164,14 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Walls Ice Factory, Multan Road, Lahore</span>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal30">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
-        	
+
         </div>
 			</div>
-			
+
 </div>
 <div class="row pol">
         	<div class="col-md-4">
@@ -180,7 +180,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Kancai Paint, Sunder Estate, Lahore.</span>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal29">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
@@ -190,7 +190,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Gourmet Factory, Sunder Estate, Lahore</span>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal28">View Project</button>
-        				
+
         					</div>
         		</div>
         	</div>
@@ -200,14 +200,14 @@
         			<div class="text w-100 text-center">
         				<span class="cat">World Food Office Building, Islamabad.</span>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal27">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
-        	
+
         </div>
 			</div>
-			
+
 </div>
 <div class="row pol">
         	<div class="col-md-4">
@@ -216,7 +216,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Suparco Evt & Catr Facilities, Lahore</span>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal26">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
@@ -226,7 +226,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Lessco Head office, Lahore.</span><br>
         				<<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal25">View Project</button>
-        				
+
         					</div>
         		</div>
         	</div>
@@ -236,14 +236,14 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Alflah Bank,Okara.</span><br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal24">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
-        	
+
         </div>
 			</div>
-			
+
 </div>
 <div class="row pol">
         	<div class="col-md-4">
@@ -252,7 +252,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Jinnah Hospital,Lahore.</span><br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal23">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
@@ -262,7 +262,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Alflah Bank, Lahore.</span><br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal22">View Project</button>
-        				
+
         					</div>
         		</div>
         	</div>
@@ -272,14 +272,14 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Park Lane Tower, Lahore.</span><br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal21">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
-        	
+
         </div>
 			</div>
-			
+
 </div>
 <div class="row pol">
         	<div class="col-md-4">
@@ -288,7 +288,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Imtiaz Ali associate.</span><br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal20">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
@@ -298,7 +298,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">CPE institute of cardiology Multan.</span>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal19">View Project</button>
-        				
+
         					</div>
         		</div>
         	</div>
@@ -308,14 +308,14 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Shoukat Khanam Hospital, Lahore.</span>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal18">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
-        	
+
         </div>
 			</div>
-			
+
 </div>
 <div class="row pol">
         	<div class="col-md-4">
@@ -324,7 +324,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">MacDonald Gulberg,Fotress,Jail road,</span>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal17">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
@@ -334,7 +334,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Interlope pvt 1-2 limited Faisalabad.</span>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal16">View Project</button>
-        				
+
         					</div>
         		</div>
         	</div>
@@ -344,14 +344,14 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Wateen wear house rewind road Lahore.</span>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal15">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
-        	
+
         </div>
 			</div>
-			
+
 </div>
 <div class="row pol">
         	<div class="col-md-4">
@@ -360,7 +360,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Hotel one pc, Faislabad.</span><br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal14">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
@@ -370,7 +370,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Iwana e Iqbal Lahore.</span><br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal13">View Project</button>
-        				
+
         					</div>
         		</div>
         	</div>
@@ -380,14 +380,14 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Allama iqbal international airport Lahore.</span>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal12">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
-        	
+
         </div>
 			</div>
-			
+
 </div>
 <div class="row pol">
         	<div class="col-md-4">
@@ -396,7 +396,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Nishat Mill Faislabad.</span><br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal11">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
@@ -406,7 +406,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Agriculture Universty Faislabad.</span><br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal10">View Project</button>
-        				
+
         					</div>
         		</div>
         	</div>
@@ -416,14 +416,14 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Masjid khizra Faisalabad.</span><br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal9">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
-        	
+
         </div>
 			</div>
-			
+
 </div>
 
 <div class="row pol">
@@ -433,7 +433,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Liberty power plant Sindh.</span><br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal8">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
@@ -443,7 +443,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Lal Qila Faislabad.</span><br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal7">View Project</button>
-        				
+
         					</div>
         		</div>
         	</div>
@@ -453,14 +453,14 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Sitara Shoping Mall Faislabad.</span><br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal7">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
-        	
+
         </div>
 			</div>
-			
+
 </div>
 
 <div class="row pol">
@@ -470,7 +470,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Family Mart Shoping Mall Faislabad.</span>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal6">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
@@ -480,7 +480,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Allied bank head office Lahore</span><br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal5">View Project</button>
-        				
+
         					</div>
         		</div>
         	</div>
@@ -490,14 +490,14 @@
         			<div class="text w-100 text-center">
         				<span class="cat">MacDonald Defence,Allama Iqbal town</span>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal4">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
-        	
+
         </div>
 			</div>
-			
+
 </div>
 
 <div class="row pol">
@@ -507,7 +507,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">Sefam Private limited Lahore.</span><br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal3">View Project</button>
-        				
+
         				</div>
         		</div>
         	</div>
@@ -517,7 +517,7 @@
         			<div class="text w-100 text-center">
         				<span class="cat">AIOU , Islamabad</span> <br>
         				<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal2">View Project</button>
-        				
+
         					</div>
         		</div>
         	</div>
@@ -530,10 +530,10 @@
         				</div>
         		</div>
         	</div>
-        	
+
         </div>
 			</div>
-			
+
 </div>
 
 </div>
@@ -548,7 +548,7 @@
     <!-- Modal content-->
     <div class="modal-content">
       <div class="modal-header">
-        
+
         <h4 class="modal-title">Modal </h4>
       </div>
       <div class="modal-body">
@@ -561,7 +561,7 @@
 
 
 
-    
+
 
 
 

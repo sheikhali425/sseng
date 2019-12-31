@@ -1,5 +1,6 @@
 <?php
-
+use Illuminate\Http\Request;
+use App\Project;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -14,6 +15,8 @@
 Route::get('/createproject', function () {
     return view('createproject');
 });
+Route::post('/createproject', 'ProjectController@store');
+
 Route::get('/', function () {
     return view('welcome');
 });
