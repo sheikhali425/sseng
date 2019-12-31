@@ -23,14 +23,19 @@ Route::get('/', function () {
 Route::get('/welcome', function () {
     return view('welcome');
 });
-Route::get('/page', function () {
-    return view('page');
+Route::get('/page/{id}', function ($id) {
+    $project = Project::where('id',$id)->first();
+
+    return view('page',compact('project'));
 });
 Route::get('/layout', function () {
     return view('layout');
 });
 Route::get('/projectss', function () {
-    return view('projectss');
+    $projects = Project::all();
+
+
+    return view('projectss',compact('projects'));
 });
 Route::get('/air', function () {
     return view('air');
