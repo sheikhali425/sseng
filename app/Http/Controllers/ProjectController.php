@@ -49,14 +49,12 @@ class ProjectController extends Controller
              $area = $request->areaname;
              $equipment = $request->input('equipment');
              $service   = $request->input('service');
-             $capacity  = $request->input('capacity');
              $path      = $name;
 
             $project = new Project([
                 'area'=>$area,
                 'equipment'=>$equipment,
                 'service'=>$service,
-                'capacity'=>$capacity,
                 'path' =>$name
             ]);
             $project->save();

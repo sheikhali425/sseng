@@ -18,7 +18,6 @@ class CreateProjectsTable extends Migration
             $table->string('area');
             $table->string('equipment');
             $table->string('service');
-            $table->string('capacity');
             $table->string('path');
             $table->timestamps();
         });

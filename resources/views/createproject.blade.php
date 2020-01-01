@@ -32,11 +32,7 @@
                 <input class="form-control" type="text" name="service" required placeholder="Enter Service"/>
 
             </div>
-            <div class="form-group">
-                <label>Capacity:</label>
-                <input class="form-control" type="text" name="capacity" required placeholder="Enter Capacity"/>
-
-            </div>
+           
             <div class="form-group">
                 <input class="btn btn-primary btn-block" type="submit" value="Submit"/>
             </div>

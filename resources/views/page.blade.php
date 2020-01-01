@@ -55,16 +55,15 @@
 
 						  <i class="fa fa-cogs"></i>
 				<strong>SERVICE</strong>
-				<em>-</em>
+				
 				<br>
 			<span>{{$project->service}}</span>
 						      </li>
 						  <li class="nav-item text-left">
-						  <i class="fa fa-tachometer"></i>
-				<strong>CAPACITY</strong>
-				<em>-</em>
+						  
+				
 				<br>
-			<span>{{$project->capacity}}</span>
+			
 						</li>
 						  </ul>
 						  <br>
